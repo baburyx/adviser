@@ -8,7 +8,7 @@ Adviser: A Command Line Chatbot for Tailored Guidance - Adviser is a user-friend
 
 ## Features
 
-- **Intelligent Task-Based Questioning:** Utilizes OpenAI's GPT-4-1106-preview model to generate a concise set of questions tailored to the user's specific task, ensuring a focused and relevant information-gathering process.
+- **Intelligent Task-Based Questioning:** Utilizes OpenAI's GPT-4 model to generate a concise set of questions tailored to the user's specific task, ensuring a focused and relevant information-gathering process.
 - **Advanced Natural Language Understanding:** Employs the latest advancements in natural language processing to interpret user inputs accurately and provide nuanced, context-aware advice.
 - **Seamless API Integration:** Designed to work in tandem with OpenAI's APIs, ensuring users have access to cutting-edge AI technology for real-time, dynamic advice and solutions.
 
