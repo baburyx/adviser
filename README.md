@@ -4,7 +4,7 @@
 
 Adviser: A Command Line Chatbot for Tailored Guidance - Adviser is a user-friendly command line chatbot designed to provide step-by-step guidance for a variety of tasks and queries. It operates through an interactive Q&A format, generating personalized questions based on user inputs and crafting customized advice or solutions. Ideal for those seeking structured assistance in areas like learning new skills, cooking, DIY projects, and more, Adviser simplifies decision-making and planning through its intuitive conversational interface. Easy to use and adaptable, it's perfect for anyone looking for direct, bespoke advice at their fingertips.
 
-> > **Future Streamlit GUI Integration:**: Plans to introduce a Streamlit-based graphical interface to enhance user interaction, making "Adviser" more intuitive and visually engaging. This upcoming feature will allow users to interact with the chatbot through a more user-friendly and visually appealing interface.
+> **Future Streamlit GUI Integration:** Plans to introduce a Streamlit-based graphical interface to enhance user interaction, making "Adviser" more intuitive and visually engaging. This upcoming feature will allow users to interact with the chatbot through a more user-friendly and visually appealing interface.
 
 ## Features
 
@@ -25,7 +25,7 @@ Adviser: A Command Line Chatbot for Tailored Guidance - Adviser is a user-friend
 1. Clone the repository:
 
 ```bash
-   git https://github.com/baburyx/adviser.git
+git https://github.com/baburyx/adviser.git
 ```
 
 2. Install [Poetry](https://python-poetry.org/).
